@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '35914'
     url: http://www.gutenberg.org/2009/agents/35914
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37254#The-Gentleman-CadetHis-Career-and-Adventures-at-the-Royal-Military-Academy-Woolwich
 gutenberg_issued: '2011-08-29'
 gutenberg_type: Text
 identifiers:

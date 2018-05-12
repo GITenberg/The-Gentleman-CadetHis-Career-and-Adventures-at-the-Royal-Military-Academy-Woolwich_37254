@@ -1,0 +1,48 @@
+_repo: The-Gentleman-CadetHis-Career-and-Adventures-at-the-Royal-Military-Academy-Woolwich_37254
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Staniland, Charles Joseph
+    aliases:
+    - Staniland, C. J. (Charles Joseph)
+    - Staniland, C.J.
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '9714'
+    url: http://www.gutenberg.org/2009/agents/9714
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drayson, Alfred W. (Alfred Wilks)
+    aliases:
+    - Drayson, A. W. (Alfred Wilks)
+    - Drayson, A.W. (Alfred Wilks)
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '35914'
+    url: http://www.gutenberg.org/2009/agents/35914
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Royal Military Academy, Woolwich -- Juvenile fiction'
+- !lcsh 'Academic achievement -- Juvenile fiction'
+- !lcsh 'Teachers -- Juvenile fiction'
+- !lcsh 'Military cadets -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: 'The Gentleman Cadet
+
+  His Career and Adventures at the Royal Military Academy Woolwich'
+url: http://www.gutenberg.org/ebooks/37254
